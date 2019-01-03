@@ -2,6 +2,7 @@
 A lightweight WordPress plugin that adds a pop-up contact form to your website. 
 
 Description:
+
 5280 Bootstrap Modal Contact Form is a lightweight WordPress plugin that adds a pop-up contact form to your website. 
 Simply paste the following shortcode [sbmcf] into your website where you want the button that triggers the pop-up to appear. 
 You can choose the default form or customize your own.
